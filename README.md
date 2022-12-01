@@ -10,7 +10,7 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Olá, meu nome é Lanna Gabrielly, tenho 15 anos.  <br />
+ Meu nome é Lanna Gabrielly, tenho 15 anos.  <br />
 Sou aspirante a Veterinária, possuo um grande apreço por gatos. Também tenho interesse na área da saude, mais especificamente, enfermagem. </b>. <br/>
 <p align="left" >
 <br />
