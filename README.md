@@ -8,11 +8,6 @@
 </p>
 <a href="https://www.instagram.com/nani.gaby/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
- </p>
-</a>
-<a href="https://www.linkedin.com/in/lanna-gabrielly-santana-simplicio-531ab8257/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
  Meu nome é Lanna Gabrielly, tenho 16 anos.  <br />
@@ -20,15 +15,19 @@ Sou aspirante a Veterinária, possuo um grande apreço por gatos. Também tenho 
 <p align="left" >
 <br />
   </p>
-<img align="right" alt="GIF" src="https://github.com/LannaGaby/LannaGaby/blob/main/octocat-1669917751382.png" width="400px" />
+<a href="https://www.linkedin.com/in/lanna-gabrielly-santana-simplicio-531ab8257/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br>
+<img align="right" alt="GIF" src="https://github.com/LannaGaby/primeiro_repositorio/blob/main/octocat-1669917751382.png" width="400px" />
 
 🚀 Já palestrei em eventos como:
   <ul>
   <li> I Feira de Ciência de Mato Grosso </li>
   
 <hr />
+
+
 
   
 - 👾 Meus hobbies são: 
