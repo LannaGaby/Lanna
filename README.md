@@ -26,7 +26,7 @@ Sou aspirante a Veterinária, possuo um grande apreço por gatos. Também tenho 
   
 <hr />
 
-<img align="right" alt="GIF" src="https://github.com/LannaGaby/primeiro_repositorio/blob/main/octocat-1669917751382.png" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/LannaGaby/LannaGaby/blob/main/octocat-1669917751382.png" width="400px" />
 
   
 - 👾 Meus hobbies são: 
