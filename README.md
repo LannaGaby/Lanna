@@ -10,9 +10,9 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
  </p>
+</a>
 <a href="https://www.linkedin.com/in/lanna-gabrielly-santana-simplicio-531ab8257/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
 </a><br />
 <p align="left" >
  Meu nome é Lanna Gabrielly, tenho 16 anos.  <br />
