@@ -19,7 +19,7 @@ Sou aspirante a Veterinária, possuo um grande apreço por gatos. Também tenho 
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br>
-<img align="right" alt="GIF" src="https://github.com/LannaGaby/primeiro_repositorio/blob/main/octocat-1669917751382.png" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/LannaGaby/LannaGaby/blob/main/octocat-1669917751382.png" width="400px" />
 
 🚀 Já palestrei em eventos como:
   <ul>
